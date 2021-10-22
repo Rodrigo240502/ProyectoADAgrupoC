@@ -1,2 +1,4 @@
-# ProyectoADAgrupoC
-Proyecto ADA Grupo C
+# Proyecto ADA Grupo C
+Codigo de proyecto
+
+AUTOR: RODRIGO GUERRA 
